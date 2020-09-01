@@ -1,0 +1,28 @@
+{
+  "name": "qualque_coisa",
+  "version": "1.0.0",
+  "description": "tudo de bom e mais um pouco para todos",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "qualquer",
+    "loucura",
+    "mais",
+    "um",
+    "pouco"
+  ],
+  "author": "G.M.R",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "sequelize": "^6.3.4",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
